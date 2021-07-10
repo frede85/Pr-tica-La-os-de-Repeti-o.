@@ -1,0 +1,18 @@
+void main(){
+  
+  int b = 1;
+  while (b < 10){
+    print("$b x 120");
+    b++;
+}
+
+  
+
+for(int a = 120; a<=1200; a += 120){ 
+     print("Totais = $a");
+}
+  
+
+ } 
+  
+  

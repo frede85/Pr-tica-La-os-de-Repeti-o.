@@ -1,0 +1,8 @@
+void main(){
+int a = 9;
+for(int b = 1; b<=10; b += 1){ 
+     int c = a * b;
+  print("$a x $b = $c");
+}
+} 
+  

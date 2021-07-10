@@ -1,0 +1,11 @@
+void main(){
+  
+  int maior = 10;
+  for(int a = 0; a<=10; a+=1)
+   {
+    print(a);
+  }
+  if(maior > 0){
+    print("O numero maior é: $maior");
+  }
+}
